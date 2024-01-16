@@ -1,10 +1,11 @@
-# nlp-demo
 
 ## Clone the repository 
-` git init`
-`git clone https://github.com/taufiq-nlp/nlp-demo.git`
+```
+git init
+git clone https://github.com/taufiq-nlp/nlp-demo.git
+```
 
-## Installation Steps:
+## Installation Steps
 - activate virtual env
 ```
 python -mvenv .venv
